@@ -112,6 +112,7 @@ Upgrade all Template and Standalone VM(s)
 -----------------------------------------
 
 We strongly recommend that you update **all** TemplateVMs and StandaloneVMs before use so that you have the latest security patches from upstream distributions.
+As mentioned previously, it is better to install new R4.0 templates (and update them after installation) rather than restore R3.2 TemplateVMs, as the latter is not fully supported and may cause issues on update.
 In addition, if the default templates have reached EOL (end-of-life) by the time you install R4.0, we strongly recommend that you upgrade them before use.
 Please see [Supported Versions](/doc/supported-versions/) for information on supported OS versions and consult the guides below for specific upgrade instructions:
 
